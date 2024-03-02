@@ -9,10 +9,12 @@
 
 const BASEURL = "http://localhost/easier-code/public";
 
+// Default mysql
+
 const DB_HOST = "localhost";
 const DB_USER = "root";
 const DB_PASS = "";
-const DB_NAME = "phpmvc";
+const DB_NAME = "nama_database_kamu";
 
 ?>
 
