@@ -5,7 +5,7 @@
 
  class Home extends Controller {
     public function index() {
-        $data['judul'] = 'Home';
+        $data['judul'] = 'Welcome Easier Code';
         $data['nama'] = $this->model('User_model')->getUser();
 
         $this->view('templates/header', $data);

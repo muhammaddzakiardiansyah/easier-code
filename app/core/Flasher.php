@@ -1,5 +1,5 @@
 <?php
-
+// Flasher merupakan pesan / alert 
  class Flasher {
 
 
